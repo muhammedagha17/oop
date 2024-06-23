@@ -43,7 +43,7 @@ To run this project  on your local machine:
 
 ## Clone the repository 
 ```bash
-git clone https://github.com/muhammedagha17/muhammedagha17/University-Management-System.git
+git clone https://github.com/muhammedagha17/muhammedagha17/oop.git
 ```
 ## Navigate to the project directory 
 ```bash
